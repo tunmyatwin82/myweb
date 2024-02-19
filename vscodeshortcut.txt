@@ -1,0 +1,16 @@
+newfile - Ctrl + N
+newfolder - Ctrl + Shift + N
+save - Ctrl + S
+autocomplete - Tab 
+mutlitple cursor - Alt + Left click
+start , end - Home End Key
+select all , word , line  - Ctrl + a, double click
+copy , paste, cut - Ctrl C, Ctrl V, Ctrl X 
+Direction select - Ctrl + Shift + Arrow LRUB
+new line - Ctrl + Enter
+Jump file - Ctrl + P
+undo - Ctrl + Z
+redo - Ctrl + Y
+find - Ctrl + f
+find and replace - Ctrl + h
+terminal , cmd - Ctrl + Shift + `
